@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  Agent name: 'SUMEDHG04'
+  Agent name: 'DevOpsHost'
 
 steps:
 - task: Maven@3
