@@ -8,7 +8,7 @@ trigger:
 
 #pool:MyPool
 # vmImage: ubuntu-latest
-pool: MyPool
+pool: DevOpsHost
 steps:
 - task: Maven@3
   inputs:
