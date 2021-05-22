@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  Agent name: 'SUMEDHG04'
 
 steps:
 - task: Maven@3
